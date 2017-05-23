@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head profile="http://selenium-ide.openqa.org/profiles/test-case">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="selenium.base" href="https://3dnews.ru/" />
+<title>календарь</title>
+</head>
+<body>
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">календарь</td></tr>
+</thead><tbody>
+<tr>
+	<td>open</td>
+	<td>/calendar</td>
+	<td></td>
+</tr>
+<tr>
+	<td>assertTitle</td>
+	<td>Календарь</td>
+	<td></td>
+</tr>
+<tr>
+	<td>assertTitle</td>
+	<td>Календарь</td>
+	<td></td>
+</tr>
+<tr>
+	<td>assertText</td>
+	<td>css=p.strong</td>
+	<td>Дорогие читатели портала 3DNews!</td>
+</tr>
+<tr>
+	<td>assertText</td>
+	<td>//div[@id='55a8f25cb4182e55698b4569']/div[2]/p[3]/strong</td>
+	<td>Календарь 3DNews на октябрь для разных разрешений экрана:</td>
+</tr>
+<tr>
+	<td>assertElementPresent</td>
+	<td>link=1280х800</td>
+	<td></td>
+</tr>
+<tr>
+	<td>assertElementPresent</td>
+	<td>link=1920х1080</td>
+	<td></td>
+</tr>
+<tr>
+	<td>assertElementPresent</td>
+	<td>//div[@id='55a8f25cb4182e55698b4569']/div[2]/p[5]/strong</td>
+	<td></td>
+</tr>
+<tr>
+	<td>assertElementPresent</td>
+	<td>//div[@id='55a8f25cb4182e55698b4569']/div[2]/div[7]/p/img</td>
+	<td></td>
+</tr>
+
+</tbody></table>
+</body>
+</html>

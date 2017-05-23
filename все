@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <meta content="text/html; charset=UTF-8" http-equiv="content-type" />
+  <title>Test Suite</title>
+</head>
+<body>
+<table id="suiteTable" cellpadding="1" cellspacing="1" border="1" class="selenium"><tbody>
+<tr><td><b>Test Suite</b></td></tr>
+<tr><td><a href="3d.html">справочные материалы</a></td></tr>
+<tr><td><a href="3dnews.html">зеркалки</a></td></tr>
+<tr><td><a href="3dnew.">action cameras</a></td></tr>
+<tr><td><a href="21.html">home cinema</a></td></tr>
+<tr><td><a href="22.html">tv&comp</a></td></tr>
+<tr><td><a href="23.html">tesdrive</a></td></tr>
+<tr><td><a href="34.html">audio-video</a></td></tr>
+<tr><td><a href="25.html">guard</a></td></tr>
+<tr><td><a href="26.html">exhibitions</a></td></tr>
+<tr><td><a href="27.html">itogi</a></td></tr>
+<tr><td><a href="28.html">28</a></td></tr>
+<tr><td><a href="29.html">29</a></td></tr>
+<tr><td><a href="30.html">30</a></td></tr>
+<tr><td><a href="31.html">31</a></td></tr>
+<tr><td><a href="32.html">32</a></td></tr>
+</tbody></table>
+</body>
+</html>
